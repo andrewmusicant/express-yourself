@@ -1,0 +1,8 @@
+{
+  "test_separator.py::test_phone_numbers[(919) 555-1212-expected1]": true,
+  "test_separator.py::test_phone_numbers[555-121-None]": true,
+  "test_separator.py::test_phone_numbers[919 555-1212-expected4]": true,
+  "test_separator.py::test_phone_numbers[919-555-1212-expected0]": true,
+  "test_separator.py::test_phone_numbers[919.555.1212-expected3]": true,
+  "test_separator.py::test_phone_numbers[9195551212-expected2]": true
+}
